@@ -1,0 +1,6 @@
+a = str(12.3)
+print(type(a), a)
+b = float(11)
+print(type(b))
+c = int(11.923)
+print(type(c), c)

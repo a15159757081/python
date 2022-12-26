@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="python">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9文件的操作/1文件的读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/9文件的操作/1文件的读取.py" afterDir="false" />
-    </list>
+    <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +22,12 @@
       <list>
         <option value="jay &lt;294348798@qq.com&gt;" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -208,7 +211,7 @@
       <workItem from="1671938719486" duration="767000" />
       <workItem from="1671939623417" duration="4333000" />
       <workItem from="1672035248949" duration="28000" />
-      <workItem from="1672035278228" duration="4950000" />
+      <workItem from="1672035278228" duration="5724000" />
     </task>
     <task id="LOCAL-00001" summary="python笔记">
       <created>1672038186703</created>
@@ -224,11 +227,62 @@
       <option name="project" value="LOCAL" />
       <updated>1672039333005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="python">
+      <created>1672040552739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672040552739</updated>
+    </task>
+    <task id="LOCAL-00004" summary="python">
+      <created>1672040670339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672040670339</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python">
+      <created>1672040976103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672040976103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python">
+      <created>1672041036933</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672041036933</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python笔记" />
@@ -240,6 +294,6 @@
     <SUITE FILE_PATH="coverage/$2.coverage" NAME="2函数的多种传参方式 覆盖结果" MODIFIED="1671852940518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
     <SUITE FILE_PATH="coverage/$3__1_.coverage" NAME="3函数作为参数传递加匿名函数 (1) 覆盖结果" MODIFIED="1671875559475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
     <SUITE FILE_PATH="coverage/$3.coverage" NAME="3匿名函数 覆盖结果" MODIFIED="1671873383966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
-    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1文件的读取 覆盖结果" MODIFIED="1672040046494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1文件的读取 覆盖结果" MODIFIED="1672040328934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
   </component>
 </project>

@@ -1,11 +1,17 @@
 def add(x, y):
     return x + y
+
+
 num = add(10, 20)
+
+
 # 函数使用
 
 class student:
     def add(self, x, y):
         return x + y
+
+
 student = student()
 num1 = student.add(1, 2)
 
@@ -21,7 +27,7 @@ lb[0] = "a"
 print(f"列表修改后{lb}")
 # 列表的修改
 
-lb.insert(2, "b")
+lb.insert(2, "b1")
 print(f"添加完后的列表{lb}")
 # 列表的插入
 
@@ -50,8 +56,6 @@ print(lb.count("b"))
 # 计算该元素在列表里面出现了几次
 
 print(f"列表元素数量一共有{len(lb)}")
-
-
 
 # 练习
 student = [21, 25, 21, 23, 22, 20]

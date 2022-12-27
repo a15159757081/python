@@ -43,6 +43,7 @@ print(f"字符串的长度为{long}")
 
 
 # 练习
+print("—————————练习———————————")
 lx = "itheima itcast boxuege"
 num = lx.count("it")
 print(f"一共有{num}个it")

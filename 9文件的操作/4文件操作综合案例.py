@@ -2,7 +2,7 @@ fr = open("测试/bill.txt", "r", encoding="UTF-8")
 fw = open("测试/bill.txt.bak", "a", encoding="UTF-8")
 for line in fr:
     line = line.strip()
-    if line.strip(",")[-1] == "测试":  # 这里可以使用not则只需要判断一次
+    if line.split(",")[-1] == "测试":  # 这里可以使用not则只需要判断一次
         continue
     else:
         fw.write(line)

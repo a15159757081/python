@@ -4,33 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/10异常模块包/1捕获异常.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/2异常具有传递性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/3python模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/4模块的自定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/5python包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/my_module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/my_module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10异常模块包/package/module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+    <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10异常模块包/6.单元案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10异常模块包/my_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10异常模块包/my_utils/str_util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/.idea/10异常、模块、包.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/1捕获异常.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/2异常具有传递性.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/3python模块.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/4模块的自定义.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/5python包.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/my_module1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10异常、模块、包/my_module2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/工程.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/工程.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6函数/5函数说明文档.py" beforeDir="false" afterPath="$PROJECT_DIR$/6函数/5函数说明文档.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,31 +60,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/工程/10异常、模块、包",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/工程/10异常、模块、包&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlserver"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
     ],
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="工程" is-module-sdk="true">
@@ -111,6 +93,7 @@
         <option name="myModuleName" value="工程" />
       </console-settings>
     </option>
+    <option name="myShowVariablesByDefault" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -121,8 +104,8 @@
       <recent name="D:\工程\9文件的操作\测试" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5python包 (1)">
-    <configuration name="11杨辉三角" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.str_util">
+    <configuration name="10数据容器基本操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,51 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7数据容器/11杨辉三角.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="工程" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5循环" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5循环/11冒泡排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1文件的读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="工程" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9文件的操作" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9文件的操作/1文件的读取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7数据容器/10数据容器基本操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,12 +135,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常、模块、包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常模块包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10异常、模块、包/4模块的自定义.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10异常模块包/4模块的自定义.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5python包 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.单元案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,12 +157,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常、模块、包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常模块包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10异常、模块、包/5python包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10异常模块包/6.单元案例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5python包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7for变量作用域" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,12 +179,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常、模块、包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5循环" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\工程\10异常、模块、包\5python包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5循环/7for变量作用域.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5python包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="str_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="工程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,34 +201,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常、模块、包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常模块包/my_utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\工程\10异常、模块、包\5python包.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_module3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="工程" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10异常、模块、包/my_package" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\工程\10异常、模块、包\my_package\my_module3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10异常模块包/my_utils/str_util.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5python包 (1)" />
-        <item itemvalue="Python.5python包" />
-        <item itemvalue="Python.5python包" />
-        <item itemvalue="Python.my_module3" />
-        <item itemvalue="Python.11杨辉三角" />
+        <item itemvalue="Python.str_util" />
+        <item itemvalue="Python.6.单元案例" />
+        <item itemvalue="Python.4模块的自定义" />
+        <item itemvalue="Python.10数据容器基本操作" />
+        <item itemvalue="Python.7for变量作用域" />
       </list>
     </recent_temporary>
   </component>
@@ -342,56 +259,13 @@
       <workItem from="1672802398628" duration="12190000" />
       <workItem from="1672822627961" duration="549000" />
       <workItem from="1672823192053" duration="155000" />
-      <workItem from="1672823359783" duration="2916000" />
-    </task>
-    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672123797540</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1672123797540</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672124186977</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1672124186977</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672124236701</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1672124236701</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672131489961</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1672131489961</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672131529945</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1672131529945</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672131535785</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1672131535785</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672131694958</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1672131694958</updated>
+      <workItem from="1672823359783" duration="4381000" />
+      <workItem from="1673010731982" duration="2626000" />
+      <workItem from="1673162046917" duration="2514000" />
+      <workItem from="1673164602934" duration="903000" />
+      <workItem from="1673165540579" duration="2303000" />
+      <workItem from="1673168429223" duration="82000" />
+      <workItem from="1673168524765" duration="766000" />
     </task>
     <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1672131710884</created>
@@ -687,7 +561,56 @@
       <option name="project" value="LOCAL" />
       <updated>1672817044186</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1672826313839</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1672826313839</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1672826337104</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1672826337104</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1672826394500</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1672826394500</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1672826461207</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1672826461207</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1672827670905</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1672827670905</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1672827772241</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1672827772241</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1673162756597</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1673162756598</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -727,23 +650,32 @@
     <MESSAGE value="python" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;9文件的操作/1文件的读取2及练习.py" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1673162542312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="文件的的追加 覆盖结果" MODIFIED="1672559637027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
+    <SUITE FILE_PATH="coverage/$str_util.coverage" NAME="str_util 覆盖结果" MODIFIED="1673169614001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
+    <SUITE FILE_PATH="coverage/$module_new.coverage" NAME="module_new 覆盖结果" MODIFIED="1673012210971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
     <SUITE FILE_PATH="coverage/$3python.coverage" NAME="3python模块 覆盖结果" MODIFIED="1672811105858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
-    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2异常具有传递性 覆盖结果" MODIFIED="1672735803439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/$my_module1.coverage" NAME="my_module1 覆盖结果" MODIFIED="1672805626277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/$5python.coverage" NAME="5python包 覆盖结果" MODIFIED="1672824341721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
-    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4模块的自定义 覆盖结果" MODIFIED="1672811112885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
+    <SUITE FILE_PATH="coverage/$module.coverage" NAME="module 覆盖结果" MODIFIED="1673012021858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/package" />
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2函数的多种传参方式 覆盖结果" MODIFIED="1673012846322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
+    <SUITE FILE_PATH="coverage/$4.coverage" NAME="4模块的自定义 覆盖结果" MODIFIED="1673165656108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包" />
     <SUITE FILE_PATH="coverage/$3__1_.coverage" NAME="3函数作为参数传递加匿名函数 (1) 覆盖结果" MODIFIED="1671875559475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
     <SUITE FILE_PATH="coverage/$my_module1__1_.coverage" NAME="my_module1 (1) 覆盖结果" MODIFIED="1672822525272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包/my_package" />
     <SUITE FILE_PATH="coverage/$5str.coverage" NAME="5str字符串及练习 覆盖结果" MODIFIED="1672127176314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
     <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 覆盖结果" MODIFIED="1672738629996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
-    <SUITE FILE_PATH="coverage/$11.coverage" NAME="11冒泡排序 覆盖结果" MODIFIED="1672816994266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5循环" />
+    <SUITE FILE_PATH="coverage/$10.coverage" NAME="10数据容器基本操作 覆盖结果" MODIFIED="1673165569069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
+    <SUITE FILE_PATH="coverage/$5python__2_.coverage" NAME="5python包 (2) 覆盖结果" MODIFIED="1673165553323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包" />
+    <SUITE FILE_PATH="coverage/$6_.coverage" NAME="6.单元案例 覆盖结果" MODIFIED="1673167841029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包" />
+    <SUITE FILE_PATH="coverage/$11.coverage" NAME="11杨辉三角 覆盖结果" MODIFIED="1673165154495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
     <SUITE FILE_PATH="coverage/$5package__1_.coverage" NAME="5package (1) 覆盖结果" MODIFIED="1672825734689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/$5python__1_.coverage" NAME="5python包 (1) 覆盖结果" MODIFIED="1672825797636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常、模块、包" />
     <SUITE FILE_PATH="coverage/$12__1_.coverage" NAME="1文件的读取2及练习 (1) 覆盖结果" MODIFIED="1672561409492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
+    <SUITE FILE_PATH="coverage/$7for.coverage" NAME="7for变量作用域 覆盖结果" MODIFIED="1673165556405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5循环" />
     <SUITE FILE_PATH="coverage/$12.coverage" NAME="1文件的读取2 覆盖结果" MODIFIED="1672113383032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9文件的操作" />
     <SUITE FILE_PATH="coverage/$3.coverage" NAME="3函数作为参数传递加匿名函数 覆盖结果" MODIFIED="1672681703673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
   </component>

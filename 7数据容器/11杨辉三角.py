@@ -6,7 +6,7 @@ a = [1]
 
 list1 = []
 list2 = []
-num = 5
+num = int(input("输入行数"))
 for i in range(num):
     if i == 0 or i == 1:
         list1.append(1)

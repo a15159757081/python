@@ -4,7 +4,7 @@ def str_reverse(s):
     :param s:讲被反转的字符串
     :return:
     """
-    return s[::-1]
+    return s[::-1]  # 根据切片反转字符串
 
 
 def substr(s, x, y):

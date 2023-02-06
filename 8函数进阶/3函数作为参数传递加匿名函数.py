@@ -10,5 +10,5 @@ def aa(x, y):
 
 text_func(aa)  # 这里调用的其实是参数的逻辑
 
-text_func(lambda x, y: x + y)  # 将值给入变量并在冒号后表示逻辑
+text_func(lambda x, y: x + y)  # 将值给入形参并在冒号后表示逻辑
 # lambda函数的使用，一次性无法再次使用，使用简单避免控件浪费

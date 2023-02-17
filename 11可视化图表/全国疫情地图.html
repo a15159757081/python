@@ -8,11 +8,11 @@
 
 </head>
 <body >
-    <div id="db1c6501a3ad4447a7d1699ed02e0ba5" class="chart-container" style="width:900px; height:500px; "></div>
+    <div id="09c5b44b5602432b920d8a1f8d06e485" class="chart-container" style="width:900px; height:500px; "></div>
     <script>
-        var chart_db1c6501a3ad4447a7d1699ed02e0ba5 = echarts.init(
-            document.getElementById('db1c6501a3ad4447a7d1699ed02e0ba5'), 'white', {renderer: 'canvas'});
-        var option_db1c6501a3ad4447a7d1699ed02e0ba5 = {
+        var chart_09c5b44b5602432b920d8a1f8d06e485 = echarts.init(
+            document.getElementById('09c5b44b5602432b920d8a1f8d06e485'), 'white', {renderer: 'canvas'});
+        var option_09c5b44b5602432b920d8a1f8d06e485 = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -250,15 +250,77 @@
             "text": "\u5168\u56fd\u75ab\u60c5",
             "target": "blank",
             "subtarget": "blank",
+            "left": "center",
+            "bottom": "1%",
             "padding": 5,
             "itemGap": 10,
             "textAlign": "auto",
             "textVerticalAlign": "auto",
             "triggerEvent": false
         }
-    ]
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "piecewise",
+        "min": 0,
+        "max": 100,
+        "inRange": {
+            "color": [
+                "#50a3ba",
+                "#eac763",
+                "#d94e5d"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "hoverLink": true,
+        "orient": "vertical",
+        "padding": 5,
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 14,
+        "borderWidth": 0,
+        "pieces": [
+            {
+                "min": 1,
+                "max": 99,
+                "label": "1-99",
+                "color": "#CCFFFF"
+            },
+            {
+                "min": 100,
+                "max": 999,
+                "label": "100-999",
+                "color": "#FFFF99"
+            },
+            {
+                "min": 1000,
+                "max": 9999,
+                "label": "1000-9999",
+                "color": "#FF9966"
+            },
+            {
+                "min": 10000,
+                "max": 99999,
+                "label": "10000-99999",
+                "color": "#FF6666"
+            },
+            {
+                "min": 100000,
+                "max": 999999,
+                "label": "100000-999999",
+                "color": "#FF3333"
+            },
+            {
+                "min": 1000000,
+                "label": "1000000",
+                "color": "#990033"
+            }
+        ]
+    }
 };
-        chart_db1c6501a3ad4447a7d1699ed02e0ba5.setOption(option_db1c6501a3ad4447a7d1699ed02e0ba5);
+        chart_09c5b44b5602432b920d8a1f8d06e485.setOption(option_09c5b44b5602432b920d8a1f8d06e485);
     </script>
 </body>
 </html>

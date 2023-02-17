@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b6eafb-be03-4d0f-a2e1-6ee6433a0a64" name="变更" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/可视化图表/2pyecharts模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/可视化图表/2pyecharts模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/可视化图表/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/可视化图表/render.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/可视化图表/数据处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/可视化图表/数据处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/.idea/可视化图表.iml" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/.idea/可视化图表.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/1json.py" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/1json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/2pyecharts模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/2pyecharts模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/印度.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/印度.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/数据处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/3数据处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/日本.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/日本.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可视化图表/美国.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11可视化图表/美国.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,30 +112,8 @@
       <recent name="D:\工程\9文件的操作\测试" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.数据处理">
+  <component name="RunManager" selected="Python.3数据处理">
     <configuration name="render.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/工程/可视化图表/render.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="工程" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/可视化图表" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可视化图表/数据处理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -164,6 +152,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可视化图表/1json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="工程" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/可视化图表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\工程\可视化图表\3数据处理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +228,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.数据处理" />
+        <item itemvalue="Python.3数据处理" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.8字典dict" />
         <item itemvalue="Python.1json" />
@@ -290,28 +300,7 @@
       <workItem from="1676473949901" duration="417000" />
       <workItem from="1676521027014" duration="4000" />
       <workItem from="1676521373933" duration="1830000" />
-      <workItem from="1676614729690" duration="2362000" />
-    </task>
-    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672626331690</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1672626331690</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672626598837</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1672626598837</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1672626646687</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1672626646687</updated>
+      <workItem from="1676614729690" duration="2811000" />
     </task>
     <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1672626690126</created>
@@ -635,7 +624,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676474145371</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1676617335042</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1676617335042</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1676617357441</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1676617357441</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1676617364004</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1676617364005</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,7 +689,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="数据处理 覆盖结果" MODIFIED="1676617087758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="数据处理 覆盖结果" MODIFIED="1676617326125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可视化图表" />
     <SUITE FILE_PATH="coverage/$3.coverage" NAME="3函数作为参数传递加匿名函数 覆盖结果" MODIFIED="1676022953980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8函数进阶" />
     <SUITE FILE_PATH="coverage/$9.coverage" NAME="9字典的常用操作 覆盖结果" MODIFIED="1676087019178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7数据容器" />
     <SUITE FILE_PATH="coverage/$file_util.coverage" NAME="file_util 覆盖结果" MODIFIED="1673172211032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10异常模块包/my_utils" />
